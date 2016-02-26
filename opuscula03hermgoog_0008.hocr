@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opuscula03hermgoog/opuscula03hermgoog_0008.png"; bbox 0 0 3120 5030; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 220 493 1157 648">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 220 451 1157 648">
+     <span class='ocr_line' id='line_1_1' title="bbox 220 493 1157 648; baseline -0.02 -47"><span class='ocrx_word' id='word_1_1' title='bbox 220 551 247 600; x_wconf 70' lang='lat'><em>2</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 329 501 753 648; x_wconf 60' lang='lat' dir='ltr'>,Gonomm</span> <span class='ocrx_word' id='word_1_3' title='bbox 814 493 1157 588; x_wconf 75' lang='lat' dir='ltr'><strong>HERMANNI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 221 940 1314 1195">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 167 940 1314 1254">
+     <span class='ocr_line' id='line_1_2' title="bbox 221 940 1314 1195; baseline -0.031 2.352"><span class='ocrx_word' id='word_1_4' title='bbox 221 940 1314 1195; x_wconf 56' lang='lat' dir='ltr'><strong>OPVSOVLA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 175 4091 1391 4350">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 175 4091 1391 4363">
+     <span class='ocr_line' id='line_1_3' title="bbox 175 4091 1298 4210; baseline -0.048 3"><span class='ocrx_word' id='word_1_5' title='bbox 175 4157 196 4170; x_wconf 74' lang='grc'><strong>““</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 271 4091 469 4210; x_wconf 47' lang='grc' dir='ltr'>ΙΣΙΡδΙΑΕ,</span> <span class='ocrx_word' id='word_1_7' title='bbox 500 4139 615 4196; x_wconf 74' lang='lat' dir='ltr'>APVD</span> <span class='ocrx_word' id='word_1_8' title='bbox 644 4121 938 4190; x_wconf 78' lang='lat' dir='ltr'>GERHARDVM</span> <span class='ocrx_word' id='word_1_9' title='bbox 966 4095 1298 4174; x_wconf 68' lang='lat' dir='ltr'>rhsslscflssavm</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 695 4222 1391 4350; baseline -0.046 0"><span class='ocrx_word' id='word_1_10' title='bbox 695 4275 885 4350; x_wconf 66' lang='lat'>1827.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1149 4314 1150 4318; x_wconf 7' lang='grc' dir='ltr'><strong><em>κ</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1389 4222 1391 4224; x_wconf 72' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1564 5030">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1564 5030">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1564 5030; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1564 5030; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1558 3539 1560 4998">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1558 3539 1560 4998">
+     <span class='ocr_line' id='line_1_6' title="bbox 1558 3539 1560 4998; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 1558 3539 1560 4998; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
